@@ -1,0 +1,9 @@
+# 發佈時忽略的檔案
+src/
+js/
+index.html
+tsconfig.json
+.vscode/
+.DS_Store
+*.log
+node_modules/
