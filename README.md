@@ -25,7 +25,7 @@ npm install @umon752/web-password
 ### ES Module
 
 ```javascript
-import 'web-password';
+import '@umon752/web-password';
 ```
 
 ### HTML
